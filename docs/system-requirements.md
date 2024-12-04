@@ -9,7 +9,7 @@ Percona Server for MongoDB requires the following minimum x86_64 microarchitectu
 
 * For AMD x86_64, it requires a *Bulldozer* or later processor.
 
-`mongod` and `mongos` instances are supported on x86_64 platforms that must meet these minimum micro-architecture requirements:     
+`mongod` and `mongos` instances are supported on x86_64 platforms that must meet these minimum microarchitecture requirements:     
 
 * Only Oracle Linux running the Red Hat Compatible Kernel (RHCK) is supported. MongoDB does not support the Unbreakable Enterprise Kernel (UEK).     
 
