@@ -17,4 +17,4 @@ Percona Server for MongoDB requires the following minimum x86_64 microarchitectu
 
 ## ARM64
 
-Percona Server for MongoDB requires the ARMv8.2-A or later microarchitectures. Support for ARM64 (AARch64) includes [AWS Graviton processors](https://aws.amazon.com/ec2/graviton/).﻿
+Percona Server for MongoDB requires the ARMv8.2-A or later microarchitectures. Support for ARM64 (AARch64) includes [AWS Graviton2 or newer processors](https://aws.amazon.com/ec2/graviton/).﻿
